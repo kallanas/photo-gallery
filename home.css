@@ -1,0 +1,33 @@
+header h1 {
+  font-size: 50px;
+  margin-bottom: 30px;
+}
+
+.site-nav {
+  margin: 0;
+  padding: 0;
+}
+.site-nav li {
+  list-style: none;
+  margin-right: 20px;
+}
+.site-nav ul {
+  display: flex;
+}
+.site-nav a {
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 160%;
+  padding: 30px 50px;
+  border: solid #ffffff;
+  border-bottom: none;
+  box-sizing: border-box;
+  display: block;
+}
+.site-nav a:hover {
+  color: black;
+  background-color: #ffffff;
+  transition: all 1s;
+}
+
+/*# sourceMappingURL=home.css.map */
